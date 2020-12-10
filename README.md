@@ -1,2 +1,2 @@
-# ff35f184-55d2-443a-a157-c6085cbd3fab
-LibreSmeta - Project
+# LibreSmeta - project by pto-club.info (see soon)
+LibreSmeta - is alternative soft for WinCmeta project
